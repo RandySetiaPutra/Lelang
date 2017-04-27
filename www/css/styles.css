@@ -1,0 +1,118 @@
+ body 
+{
+
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: "Trebuchet MS"; 
+}
+a {
+    color: #09f;
+}
+a:hover {
+    text-decoration: none;
+}
+.logo{
+	width: 150px;
+	height: 35px;
+	margin-top: 5px; 
+
+}
+.panel-custom{
+	    background-color: #000080 !important; 
+	    margin: 0px;
+}
+
+#back_to_camera {
+    clear: both;
+    display: block;
+    height: 80px;
+    line-height: 40px;
+    padding: 20px;
+}
+.fluid_container {
+    margin: 0 auto;
+    max-width: 1000px;
+    width: 100%;
+}
+
+
+.ui-bar-c{
+	color: #FFF; 
+	margin: 0 0 5px 0;
+	background: #000080;
+	border-top-color: #000080;	
+} 
+
+.ui-bar-e{
+	color: #FFF; 
+	margin: 0 0 5px 0;
+	background: #000080;
+	border-top-color: #000080;	
+} 
+
+.bg-gold {
+	color: #fff;
+	background: #FF7F50 !important;	
+	border-radius: 10px ;
+	border-color: #FF7F50 !important;
+	padding-left: 10px !important;
+	text-align: center;
+}
+
+.toggle {
+	background: transparent !important;	
+	}
+
+div#pagetwo > div.ui-content > ul > li > a > img
+{
+	width: 100% ;
+
+}
+div#pagetwo > div.ui-content > ul > li > a {
+	padding: 20px ;
+	margin-bottom: 0px !important;
+}
+
+div#pagetwo > div.ui-content > ul > li  h2, p 
+{
+	padding: 0 0 0 0px;
+}
+
+
+div#pagetwo > div.ui-content > ul > li  p.area-button
+{
+	border-style: solid ;
+	border-width: 0px 0px 1px 0px; 
+	border-color: #09f;
+	margin-top: 0px; 
+	padding: 0 20px 0 20px;
+}
+
+div#pagetwo > div.ui-content > ul > li  p.area-label
+{
+	padding: 0 20px 0 20px;	
+	border-style: solid ;
+	border-color: #09f;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-width: 0px 0px 0px 0px; 
+}
+
+div#pagetwo > div.ui-content > ul > li.ui-last-child > a.ui-btn{
+	border-bottom-width:0px !important;
+}
+
+div.footer-custom{
+	background:#000080;
+	border-top-width: 0px;  	
+}
+
+div.footer-custom > div > ul > li > a {
+	color: #FFF !important;
+}
+
+div.footer-custom > div > ul > li:first-child > a {
+	
+	border-left-width: 0px;
+}
